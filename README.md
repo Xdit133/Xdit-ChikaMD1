@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.owner = ['6285641476033','6285641476033','6285641476033']
+global.premium = ['6285641476033']
+global.ownernomer = '6285641476033'
+global.ownername = 'Raditya'
+global.botname = 'Xdit-Md'
+global.footer = '¡X'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.ig = 'http://instagram.com/hai_om.qw?utm_source=qr'
+global.mygc = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob'
+global.myweb = 'https://raditxdit.my.id/'
+global.email = 'rya76438@gmail.com'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© Xdit-Md'
+global.author = 'Di Buat Oleh ¡X' 
+global.sessionName = 'Raditya'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -96,13 +96,13 @@ global.sessionName = 'chika'
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6285641476033?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6285641476033?text=Bang+mau+donasi)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Group 1](https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob)
+- [Group 2](https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob)
+- [Group 3](https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob)
 
 # Thanks to
 - [Dika](https://github.com/DikaArdnt) <br> 
@@ -110,3 +110,4 @@ global.sessionName = 'chika'
 - [Zeeone](https://github.com/zeeone-ofc) <br> 
 - [Yoga](https://github.com/YogGanz) <br> 
 - [Riy](https://github.com/riychdwayne) <br> 
+- [Xdit](https://github.com/Xdit133) <br>
