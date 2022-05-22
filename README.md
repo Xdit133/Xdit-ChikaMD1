@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
+<img src="https://telegra.ph/file/806349e82179fcd200aa1.jpg" alt="Chika-Md" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="CHIKA MULTI DEVICE" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHIKA MULTI DEVICE" src="https://img.shields.io/badge/Xdit MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
+> Xdit-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Xdit-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-Xdit-MD](https://wa.me/6285641476033)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
