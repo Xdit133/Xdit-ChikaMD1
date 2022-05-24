@@ -110,4 +110,4 @@ global.sessionName = 'Raditya'
 - [Zeeone](https://github.com/zeeone-ofc) <br> 
 - [Yoga](https://github.com/YogGanz) <br> 
 - [Riy](https://github.com/riychdwayne) <br> 
-- [Xdit](https://github.com/Xdit133) <br>
+- [Xdit-MD](https://github.com/Xdit133) <br>
