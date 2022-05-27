@@ -27,9 +27,9 @@ global.premium = ['6285641476033'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6285641476033' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '® Raditya¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '© Raditya¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'Xdit-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '® Raditya¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = '© Raditya¡X' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,7 +41,7 @@ global.email = 'rya76438@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = 'Di Buat Oleh Xdit-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = 'Stiker By Xdit-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Insta @hai_om.qw' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
