@@ -71,18 +71,18 @@ npm start
 global.owner = ['6285641476033','6285641476033','6285641476033']
 global.premium = ['6285641476033']
 global.ownernomer = '6285641476033'
-global.ownername = '® Raditya-¡X'
+global.ownername = 'Raditya-¡X'
 global.botname = 'Xdit-Md'
-global.footer = '® Raditya-¡X'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.footer = 'Raditya-¡X'
+global.youtube = 'http://instagram.com/hai_om.qw?utm_source=qr'
 global.ig = 'http://instagram.com/hai_om.qw?utm_source=qr'
 global.mygc = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob'
-global.myweb = 'https://raditxdit.my.id/'
+global.myweb = 'https://wa.me/6285641476033'
 global.email = 'rya76438@gmail.com'
 global.region = 'indonesia'
-global.packname = 'Di Buat Oleh Xdit-MD'
-global.author = '© Insta @hai_om.qw' 
-global.sessionName = '© Raditya-¡X'
+global.packname = 'Stikerby ¡X'
+global.author = 'IG @hai_om.qw' 
+global.sessionName = 'session'
 ```
 
 ## ```HOW TO DEPLOY```
