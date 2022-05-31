@@ -33,16 +33,16 @@ global.footer = '© Raditya¡X' //ubah jadi nama mu, note tanda ' gausah di hapu
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube = 'http://instagram.com/hai_om.qw?utm_source=qr'
 global.ig = 'http://instagram.com/hai_om.qw?utm_source=qr'
 global.mygc = 'https://chat.whatsapp.com/GCh8oGlUjkp16FrZ2CYEob'
-global.myweb = 'https://raditxdit.my.id/'
+global.myweb = 'https://wa.me/6285641476033'
 global.email = 'rya76438@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = 'Stiker By Xdit-MD' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Insta @hai_om.qw' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'Stikerby ¡X' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'IG @hai_om.qw' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
