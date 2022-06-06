@@ -2,10 +2,10 @@
   "name": "Chika-Md",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
-  "main": "riy.js",
+  "main": "Xdit.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node riy.js"
+    "start": "node Xdit.js"
   },
   "keywords": [
     "termux",
