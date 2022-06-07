@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @Xdit
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
@@ -46,6 +46,9 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}upvote
   *≻* ${prefix}cekvote
   *≻* ${prefix}hapusvote
+  *≻* ${prefix}antidelete [on/off]
+  *≻* ${prefix}antiviewonce [on/off] 
+  
   
   *DOWNLOADER MENU*
   *≻* ${prefix}tiktoknowm 
